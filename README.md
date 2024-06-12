@@ -9,7 +9,7 @@ Welcome to the official website of Wizard Games Corp! This is an interactive and
 
 ## Live Site
 
-You can visit the live site here: [Wizard Games Corp](https://hn0a.github.io/wizardgamescorp.github.io/)
+You can visit the live site here: [Wizard Games Corp](https://hn0a.github.io/wizardgamescorp.github.io/accueil.html)
 
 ## Project Description
 
